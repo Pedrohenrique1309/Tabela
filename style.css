@@ -1,0 +1,43 @@
+#rolex{
+    max-width: 250px;
+    border: 1px solid;
+    border-radius:100px;
+    
+  }
+  #apple{
+    max-width: 250px;
+    border: 1px solid;
+    border-radius:100px;
+    
+  }
+  #nike{
+    max-width: 250px;
+    border: 1px solid ;
+    border-radius:100px;
+  }
+  #ferrari{
+    max-width: 250px;
+    border: 1px solid;
+    border-radius:50px;
+    
+  }
+  #pirelli{
+    max-width: 250px;
+    border: 1px solid;
+    border-radius:60px;  
+  }
+  th{
+    font-size: 30px;
+    text-align: center;
+   }
+  td{
+    font-size: 17px;
+    text-align: center;
+   }
+  
+  table {
+   border-radius:10px;
+   text-align:center;
+    width:80%;
+    margin: 0 auto;
+  }
