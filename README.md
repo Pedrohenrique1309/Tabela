@@ -1,4 +1,4 @@
-# TABELA - Grande empresas
+# TABELA - Grandes empresas
 
 ![](./preview.png)
 
